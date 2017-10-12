@@ -1,0 +1,8 @@
+[package]
+authors = ["Jean-Marie Comets <jean.marie.comets@gmail.com>"]
+name = "watch-file"
+version = "0.1.0"
+
+[dependencies]
+clap = "2.26.2"
+notify = "4.0.1"
